@@ -8,12 +8,12 @@
 
 # shareable semantic-release-config
 
-shareable semantic-release-config
+A shareable semantic-release-config. Primary developed @technologiestiftung Berlin and CityLAB Berlin. Since I need to proceed with some projects, moved to pnpm and mise as dev tools I need to maintain a fork for now.
 
 ## Installation
 
 ```bash
-npm install @technologiestiftung/semantic-release-config
+npm install @ff6347/semantic-release-config
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Add file called release.config.js to your repo
 
 ```js
 module.exports = {
-  extends: '@technologiestiftung/semantic-release-config',
+  extends: '@ff6347/semantic-release-config',
 };
 ```
 
