@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/ff6347/semantic-release-config/compare/v1.0.5...v1.0.6) (2025-11-23)
+
+
+### Bug Fixes
+
+* url in repo field ([4651c73](https://github.com/ff6347/semantic-release-config/commit/4651c732f0e93cfb267d41bc316bdc55a75a6c98))
+
 ## [1.0.5](https://github.com/ff6347/semantic-release-config/compare/v1.0.4...v1.0.5) (2025-11-23)
 
 

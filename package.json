@@ -1,6 +1,6 @@
 {
 	"name": "@ff6347/semantic-release-config",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "A sharable semantic release config",
 	"main": "index.js",
 	"scripts": {
