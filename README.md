@@ -124,3 +124,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- Bump (date) -->
 <!-- Bump 2025-11-23T08:15:53+0100% -->
 <!-- Bump 2025-11-23T08:26:57+0100% -->
+<!-- Bump 2025-11-23T08:32:03+0100% -->
