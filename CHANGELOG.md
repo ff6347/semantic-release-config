@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ff6347/semantic-release-config/compare/v1.0.1...v1.0.2) (2025-11-23)
+
+
+### Bug Fixes
+
+* bump ([76be872](https://github.com/ff6347/semantic-release-config/commit/76be87256227bd9cb04391bc826019776ffcc936))
+
 # 1.0.0 (2025-11-23)
 
 
