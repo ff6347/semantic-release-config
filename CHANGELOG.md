@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/ff6347/semantic-release-config/compare/v1.0.4...v1.0.5) (2025-11-23)
+
+
+### Bug Fixes
+
+* missing repo field ([432bfaf](https://github.com/ff6347/semantic-release-config/commit/432bfaf44d2c2a5f16cf84a3a9b0905d82c8d33a))
+
 ## [1.0.4](https://github.com/ff6347/semantic-release-config/compare/v1.0.3...v1.0.4) (2025-11-23)
 
 
