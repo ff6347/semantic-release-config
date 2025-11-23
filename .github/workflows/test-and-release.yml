@@ -1,7 +1,7 @@
 name: Test & Release
 
 permissions:
-  contents: read
+  contents: write
   packages: write
   issues: write
   pull-requests: write
@@ -39,9 +39,8 @@ jobs:
       new-release-version: ${{ steps.semantic-release.outputs.new_release_version }}
     steps:
       - uses: actions/checkout@v4
-        # use this setting below when you have protected branches
         with:
-          persist-credentials: false
+          token: ${{ secrets.GH_TOKEN }}
       - name: Setup mise
         uses: jdx/mise-action@v2
       - run: pnpm install --frozen-lockfile
