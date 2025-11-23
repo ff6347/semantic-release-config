@@ -13,6 +13,10 @@
 		"semantic-release",
 		"config"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ff6347/semantic-release-config.git"
+	},
 	"author": "ff6347 <hash@ff6347.email>",
 	"license": "MIT",
 	"dependencies": {
