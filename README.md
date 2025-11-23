@@ -123,3 +123,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - [github.com/semantic-release/gitlab-config](https://github.com/semantic-release/gitlab-config)
 <!-- Bump (date) -->
 <!-- Bump 2025-11-23T08:15:53+0100% -->
+<!-- Bump 2025-11-23T08:26:57+0100% -->
